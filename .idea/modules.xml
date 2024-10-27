@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Oracle university/Excercise 3.1/Excercise 3.1.iml" filepath="$PROJECT_DIR$/Oracle university/Excercise 3.1/Excercise 3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oracle university/Exercise 2/Exercise 2.iml" filepath="$PROJECT_DIR$/Oracle university/Exercise 2/Exercise 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game mr teddy bear/Game mr teddy bear.iml" filepath="$PROJECT_DIR$/Game mr teddy bear/Game mr teddy bear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-practice.iml" filepath="$PROJECT_DIR$/.idea/Java-practice.iml" />
+    </modules>
+  </component>
+</project>

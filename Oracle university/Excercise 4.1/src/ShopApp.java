@@ -33,9 +33,17 @@ public class ShopApp {
         System.out.println("The total price for all the items will be: " +total);
 
         switch (measurement){
-            case 3:
-                ret
-
+            case 1, 2, 3:
+                c1.size = "S";
+                break;
+            case 4, 5, 6:
+                c1.size = "M";
+                break;
+            case 7, 8, 9:
+                c1.size = "L";
+                break;
+            default:
+                c1.size = "X";
         }
     }
 }

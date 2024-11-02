@@ -12,8 +12,8 @@ public class World {
 
         this.bots = new ArrayList<>();
 
-        this.bots.add(dylan);
-        this.bots.add(ryan);
+        this.bots.add(mrTeddyBear);
+        this.bots.add(pookie);
 
     }
 

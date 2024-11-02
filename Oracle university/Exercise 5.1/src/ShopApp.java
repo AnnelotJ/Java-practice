@@ -38,3 +38,4 @@ public class ShopApp {
         System.out.println("Total: " + total);
     }
 }
+//test
